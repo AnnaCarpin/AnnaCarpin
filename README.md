@@ -1,7 +1,7 @@
 <h1 align="center">✨ Anna Carpin</h1>
 <h3 align="center">Desenvolvedor full stack em formação | Projetos autorais e colaborativos em Mobile, JS, PHP, HTML/CSS | Prêmios por soluções criativas | Organização e versionamento img</h3>
 
-<p align="center"> <img width = "1px" height ="100px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdiMDBzdGp1cTFkdW0wMzRnZ3BqZnh4eWc4c3p6Mm01MXBpZzFweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PyTvI5EOu9LbAm8uS/giphy.gif" alt="annacarpin" /> </p>
+<p align="center"> <img width = "140px" height ="130px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2t0djQ0N3doZG9oYWcwcDRlNnZzazJmM3JibTlpZGowYjJkYThlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" alt="annacarpin" /> </p>
 <h2>🤝 Competências Pessoais</h2>
 <p>Sou proativa, comunicativa, organizada e detalhista. Gosto de trabalhar em equipe e estou sempre buscando novos aprendizados. Tenho facilidade para usar a tecnologia como ferramenta para resolver problemas reais de forma criativa e eficiente.</p>
 <p align ="center"> 
